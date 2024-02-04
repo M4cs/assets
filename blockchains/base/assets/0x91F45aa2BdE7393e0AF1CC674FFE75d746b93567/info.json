@@ -1,0 +1,17 @@
+{
+    "name": "Frame Token",
+    "website": "https://frametoken.us/",
+    "description": "The first ERC-20 token distributed through Farcaster frames. Powering new innovation through social networking and development.",
+    "explorer": "https://basescan.org/address/0x91F45aa2BdE7393e0AF1CC674FFE75d746b93567",
+    "type": "BASE",
+    "symbol": "FRAME",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x91F45aa2BdE7393e0AF1CC674FFE75d746b93567",
+    "links": [
+        {
+            "name": "warpcast",
+            "url": "https://warpcast.com/~/channel/frame-token"
+        }
+    ]
+}
